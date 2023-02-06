@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning frontend technologys like Html & css & JavaScript.
 - 👯 I’m looking to collaborate on nothing.
 - 💬 Ask me about frontend.
-- 📫 How to reach me: ...
+- 📫 How to reach me: rezamehridehno@yahoo.com
 - ⚡ Fun fact: I'm fan of historical and political books.
 
 ## My Skills:
